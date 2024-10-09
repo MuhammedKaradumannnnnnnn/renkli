@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            width: 200px;
+            background-color: yellow;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div>
+<h2>london</h2>
+<p>london is the capital city of England</p>
+<p>london has over 13 million inhabitants.</p>
+</div>
+    
+    <div style="background-color: aqua;width: 600px;">
+        <h2>london</h2>
+<p>london is the capital city of England</p>
+<p>london has over 13 million inhabitants.</p>
+    </div>
+    <div style="background-color: rgb(4, 102, 102);width: 600px;">
+        <h2>london</h2>
+<p>london is the capital city of England</p>
+<p>london has over 13 million inhabitants.</p>
+    </div>
+    <div style="background-color: rgb(64, 72, 110);width: 600px;">
+        <h2>london</h2>
+<p>london is the capital city of England</p>
+<p>london has over 13 million inhabitants.</p>
+    </div>
+</body>
+</html>
